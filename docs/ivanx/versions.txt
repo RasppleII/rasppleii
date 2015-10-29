@@ -1,0 +1,3 @@
+post-105:
+#          bash_history has step numbers (won't take effect until new Raspple II)
+#          remove NOOBS-added lines from /boot/config.txt before login (to enable both video ports)
