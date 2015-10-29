@@ -1,0 +1,17 @@
+
+Welcome to A2SERVER & A2CLOUD!
+A2CLOUD : virtual hard disk and internet access for any Apple II
+A2SERVER: network file storage and network boot for Apple IIgs and IIe
+
+Instructions and help: http://appleii.ivanx.com
+Type 'a2cloud-help' or 'a2server-help' to see A2CLOUD and A2SERVER commands.
+
+Type 'startx' for the LXDE desktop.
+Type 'system-shutdown' to turn off your computer or virtual machine.
+
+Type 'lynx' or 'links' to browse the web and 'cftp' to log into FTP sites.
+Type 'a2chat' or 'a2news' to talk about Apple II stuff with others.
+Type 'ttytter' to tweet. Type 'term color' for a color terminal on a IIgs.
+
+Type 'gsport' or 'kegs' to use the GSport or KEGS Apple IIgs emulators.
+Type 'linapple' to use the LinApple Apple IIe emulator.

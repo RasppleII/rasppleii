@@ -1,0 +1,3 @@
+Debian GNU/Linux 7 \n \l * A2SERVER VM release 120
+To log in, type username "user1" and password "apple2".
+

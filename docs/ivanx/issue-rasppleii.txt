@@ -1,0 +1,5 @@
+Raspbian GNU/Linux 7 \n \l * Raspple II release 104
+To log in, type username "pi" and password "apple2".
+To go straight to GSport, type username "apple2".
+  (You can quit GSport with alt-F4; your Pi will shut down.)
+
