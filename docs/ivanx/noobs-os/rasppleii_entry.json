@@ -1,0 +1,26 @@
+
+            "feature_level": 35120124,
+            "flavours": [
+                {
+                    "description": "Raspbian with A2SERVER, A2CLOUD, and Apple II Pi",
+                    "feature_level": 35120124,
+                    "icon": "http://ivanx.com/rasppleii/noobs-os/Raspple_II.png",
+                    "name": "Raspple II",
+                    "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041"
+                }
+            ],
+            "icon": "http://ivanx.com/rasppleii/noobs-os/Raspple_II.png",
+            "marketing_info": "http://ivanx.com/rasppleii/noobs-os/slidesAB.tar",
+            "nominal_size": 2760,
+            "os_info": "http://ivanx.com/rasppleii/noobs-os/os.json",
+            "os_name": "Raspple II",
+            "partition_setup": "http://ivanx.com/rasppleii/noobs-os/partition_setup.sh",
+            "partitions_info": "http://ivanx.com/rasppleii/noobs-os/partitions.json",
+            "release_date": "2015-03-01",
+            "supported_hex_revisions": "2,3,4,5,6,7,8,9,d,e,f,10,11,12,14,19,1040,1041",
+            "tarballs": [
+                "http://ivanx.com/rasppleii/noobs-os/boot.tar.xz",
+                "http://ivanx.com/rasppleii/noobs-os/root.tar.xz"
+            ]
+        },
+        
