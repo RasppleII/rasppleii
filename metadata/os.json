@@ -1,0 +1,16 @@
+{
+    "description": "Raspbian with A2SERVER, A2CLOUD, and Apple II Pi",
+    "kernel": "4.4",
+    "name": "Raspple II",
+    "password": "apple2",
+    "release_date": "2016-07-30",
+    "supported_models": [
+        "Pi Model",
+        "Pi 2",
+        "Pi Zero",
+        "Pi 3"
+    ],
+    "url": "http://ivanx.com/rasppleii/",
+    "username": "pi",
+    "version": "jessie"
+}
