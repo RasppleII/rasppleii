@@ -85,7 +85,7 @@ fi
 gen_boot_tarball_size="$(tarball_expanded_size $boot_tar_xz)"
 gen_boot_nominal_size=$(boot_nominal_size $gen_boot_tarball_size)
 gen_root_tarball_size="$(tarball_expanded_size $root_tar_xz)"
-gen_root_nominal_size=$(root_nominal_size $gen_boot_tarball_size)
+gen_root_nominal_size=$(root_nominal_size $gen_root_tarball_size)
 
 cat >out/partitions.json <<EOF
 {
